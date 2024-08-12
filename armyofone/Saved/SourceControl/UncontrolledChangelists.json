@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Volumes/KINGSTON/armyofone/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"/Volumes/KINGSTON/armyofone/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Volumes/KINGSTON/armyofone/Content/ThirdPerson/Blueprints/NewAnimBlueprint.uasset",
+				"/Volumes/KINGSTON/armyofone/Content/ThirdPerson/Blueprints/WeLeanin.uasset",
+				"/Volumes/KINGSTON/armyofone/Content/ThirdPerson/Blueprints/CR_HeadLookAt.uasset",
+				"/Volumes/KINGSTON/armyofone/Content/Countess/Characters/Heroes/Countess/Animations/AttackASlowMontage.uasset",
+				"/Volumes/KINGSTON/armyofone/Content/Countess/Characters/Heroes/Countess/Meshes/S_Countess_Skeleton.uasset",
+				"/Volumes/KINGSTON/armyofone/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+			]
+		}
+	]
+}
