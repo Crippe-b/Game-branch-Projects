@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/7W/0LC2IJU1G9TXD9VV3N5X9X.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehicleTemplate/Blueprints/SportsCar/SUV_Pawn.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehiculePhysics/Meshes/SM_Path.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/76/YJP85A4P2ZE6QYF4TIS7MO.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/UH/33QBA3PXNFC6X96HTCXIWA.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/9M/B9W1F4KEM77E7LFDQ2KYFU.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehicleTemplate/Blueprints/SportsCar/Sedan_Pawn.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehiculePhysics/Materials/Material_Instances/MI_Reflector_Grey_Emissive.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehiculePhysics/Meshes/Hatchback/hatchback_PhysicsAsset.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/Vehicles/SportsCar/SportsCar_PhysicsAsset.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehicleTemplate/Blueprints/SportsCar/Hatchback_Pawn.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehicleTemplate/Blueprints/VehicleUI.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehiculePhysics/Meshes/Car_Base_Skeleton_AnimBlueprint.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/ThirdPerson/Blueprints/Enter_Car_Widget.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsFront.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsRear.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehicleTemplate/Blueprints/BaseCar.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/JU/3JFWNTV31V70S6XQ3QF6KR.uasset",
+				"/Volumes/KINGSTON/new_vehicle_physics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/7Y/LJB42ESKH467ZH709F3N8G.uasset"
+			]
+		}
+	]
+}
